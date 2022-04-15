@@ -1,2 +1,2 @@
 hi this is 2nd file
-this is a new feature
+this is a new feature - this is update of new feature
